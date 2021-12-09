@@ -1,0 +1,12 @@
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\obj\Debug\Presentacion.Presentaciones.Estudiante.resources
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\obj\Debug\Presentacion.Presentaciones.FrmNotas.resources
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\JADPA_23\source\repos\Examen\Presentacion\obj\Debug\Presentacion.Presentaciones.FrmPrincipal.resources
